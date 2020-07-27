@@ -8,10 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "auth": [
-    { "check": 10, "message": "authorized" }, 
-    { "check": 12, "message": "unathorized" }
-  ],
   "profile": {
     "name": "vvan"
   }  
