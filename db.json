@@ -12,7 +12,8 @@
     "name": "typicode"
   },
   
-  "auth"{
-       "message":"unathorized" 
-  }
+  "auth" [
+    { "check":10, "message":"authorized"}, 
+    { "check":12, "message": "unathorized"}
+  ]
 }
