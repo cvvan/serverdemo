@@ -12,11 +12,8 @@
     "name": "typicode"
   }
   
-  "auth"[
-    "check" [
-        "1010" [
-        { "message":"unathorized" }
-        ]
-      ]
-    ],
+  "auth"{
+        "check"{
+       "message":"unathorized" }
+  },
 }
