@@ -16,7 +16,7 @@
     "check" [
         "1010" [
         { "message":"unathorized" }
-        ],
-      ],
+        ]
+      ]
     ],
 }
