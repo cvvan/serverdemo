@@ -14,8 +14,9 @@
   
   "auth"[
     "check" [
-      1010 [
-  {
-    "message":"unathorized"
-  }
+        1010 [
+        { "message":"unathorized" }
+        ],
+      ],
+    ],
 }
